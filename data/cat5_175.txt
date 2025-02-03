@@ -1,0 +1,9 @@
+# fichier cat5.txt
+175
+1	40	50	2
+2	25	85	8
+# autre commentaire
+3	22	75	3
+4	22	85	10
+5	20	80	7
+# commentaire
