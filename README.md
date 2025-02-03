@@ -69,6 +69,6 @@ python3 chasse_tresors_mh.py instances/cat5_175.txt 100 5 -display
 
 ---
 
-### Note:
-- Both scripts (`chasse_tresors_plne.py` and `chasse_tresors_mh.py`) require Python 3 and appropriate libraries.
-- The `-display` option can be omitted if you do not want the results to be shown during execution.
+> ### Note:
+> Both scripts (`chasse_tresors_plne.py` and `chasse_tresors_mh.py`) require Python 3 and appropriate libraries.
+> The `-display` option can be omitted if you do not want the results to be shown during execution.
