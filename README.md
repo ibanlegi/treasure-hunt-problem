@@ -1,4 +1,4 @@
-# Problème de la Chasse au Trésor (*en : Treasure Hunt Problem*)
+# Treasure Hunt Problem
 
 ### M1 Informatique (SECIL) - Module Algorithmique Avancée
 ### Université Toulouse III - Paul Sabatier 
